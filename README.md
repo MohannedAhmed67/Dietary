@@ -24,7 +24,7 @@ This application integrates with the Edamam Recipe Search API, providing a compr
 🔹 Architecture: Activity-based with SQLite storage for search history and favorites.
 ---
 ## 📖 Installation
-```Bash
+```bash
 git clone https://github.com/your-repo-link.git
 cd edamam-app
 ```
